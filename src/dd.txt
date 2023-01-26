@@ -1,0 +1,18 @@
+ science' element={<News pageSize={10} country={'us'} category={'science'}></News>}></Route>
+
+              <Nav.Link href="#home">Home</Nav.Link>
+             <Nav.Link href="#home">business</Nav.Link>
+             <Nav.Link href="#home">entertainment</Nav.Link>
+             <Nav.Link href="#home">general</Nav.Link>
+             <Nav.Link href="#home">health</Nav.Link>
+             <Nav.Link href="#home">science</Nav.Link>
+             <Nav.Link href="#home">sports</Nav.Link>
+             <Nav.Link href="#home">technology</Nav.Link>
+
+              business' element={<News pageSize={10} country={'in} category={'business'}></Route>
+              entertainment' element={<News pageSize={10} country={'in} category={'entertainment'}></Route>
+              general' element={<News pageSize={10} country={'in} category={'general'}></Route>
+              health' element={<News pageSize={10} country={'in} category={'health'}></Route>
+              science' element={<News pageSize={10} country={'in} category={'science'}></Route>
+              sports' element={<News pageSize={10} country={'in} category={'sports'}></Route>
+              technology' element={<News pageSize={10} country={'in} category={'technology'}></Route>
